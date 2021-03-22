@@ -1,0 +1,1 @@
+• a link between markdown pages. Link from [README.md](README.md) to [the second markdown file](README2.md) and from [the second markdown file](README2.md) back to the [README.md](README.md).
